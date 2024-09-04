@@ -1,0 +1,25 @@
+MemoryManager
+Overview
+MemoryManager is a  C project that demonstrates custom memory management. It includes functions for allocating and freeing memory and as a placeholder for checking memory status.
+
+Files Needed:
+memorymanager.h: Header file with function declarations.
+memorymanager.c: Implementation of memory management functions.
+main.c: Test program to demonstrate the usage of the memory management functions.
+Makefile: Script to compile the project.
+How to Compile and Run
+Compile the Project:
+
+Open a terminal in the project directory.
+Run the following command:
+bash
+make
+Run the Program:
+
+After compiling, run the executable:
+bash
+Copy code
+./memorymanager
+Expected Output:
+
+The program will display messages showing successful memory allocation, deallocation, and a status check.
